@@ -1,27 +1,25 @@
 impl Solution {
-    pub fn array_pair_sum(nums: Vec<i32>) -> i32 {
-        const OFFSET: usize = 10000;
-        const SIZE: usize = 20001;
-        
-        let mut count = vec![0; SIZE];
-        
-        for num in nums {
-            count[(num + OFFSET as i32) as usize] += 1;
+    pub fn array_pair_sum(mut nums: Vec<i32>) -> i32 {
+        let offset = 10000;
+        let range = 20001;  
+        let mut count = vec![0; range];
+
+        for num in nums.iter() {
+            count[(num + offset) as usize] += 1;
         }
+
+        let mut sum = 0;
+        let mut add = true; 
         
-        let mut result = 0;
-        let mut take = true;
-        
-        for i in 0..SIZE {
-            while count[i] > 0 {
-                if take {
-                    result += i as i32 - OFFSET as i32;
+        for (i, &freq) in count.iter().enumerate() {
+            let value = i as i32 - offset; 
+            for _ in 0..freq {
+                if add {
+                    sum += value;
                 }
-                take = !take;
-                count[i] -= 1;
+                add = !add;
             }
         }
-        
-        result
+        sum
     }
 }
