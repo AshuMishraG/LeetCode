@@ -1,27 +1,17 @@
 impl Solution {
     pub fn smaller_numbers_than_current(nums: Vec<i32>) -> Vec<i32> {
-        let mut count = [0; 101];
-        let mut result = Vec::with_capacity(nums.len());
-
-        // Count the occurrences of each number in nums
+        let mut freq = vec![0; 101];
+        // Count frequency for each number (0 to 100)
         for &num in &nums {
-            count[num as usize] += 1;
+            freq[num as usize] += 1;
         }
-
-        // Compute the prefix sums to determine how many numbers are smaller than each value
+        // Build prefix sum: for each number, freq[i] becomes count of numbers ≤ i.
         for i in 1..101 {
-            count[i] += count[i - 1];
+            freq[i] += freq[i - 1];
         }
-
-        // Construct the result array
-        for &num in &nums {
-            if num == 0 {
-                result.push(0);
-            } else {
-                result.push(count[(num - 1) as usize]);
-            }
-        }
-
-        result
+        // For each number, the answer is the count of numbers strictly less than it.
+        nums.into_iter()
+            .map(|num| if num == 0 { 0 } else { freq[num as usize - 1] })
+            .collect()
     }
 }
