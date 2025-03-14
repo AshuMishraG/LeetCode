@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/AshuMishraG/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/AshuMishraG/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/AshuMishraG/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AshuMishraG/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/AshuMishraG/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Sorting
 |  |
 | ------- |
