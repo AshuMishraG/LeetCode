@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshuMishraG/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/AshuMishraG/LeetCode/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/AshuMishraG/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1651-shuffle-string](https://github.com/AshuMishraG/LeetCode/tree/master/1651-shuffle-string) |
 ## Two Pointers
