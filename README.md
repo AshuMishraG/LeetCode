@@ -61,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AshuMishraG/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/AshuMishraG/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/AshuMishraG/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshuMishraG/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/AshuMishraG/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
