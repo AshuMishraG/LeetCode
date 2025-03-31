@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AshuMishraG/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/AshuMishraG/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshuMishraG/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/AshuMishraG/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshuMishraG/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/AshuMishraG/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/AshuMishraG/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/AshuMishraG/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshuMishraG/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AshuMishraG/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/AshuMishraG/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
