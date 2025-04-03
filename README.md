@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AshuMishraG/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AshuMishraG/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AshuMishraG/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Simulation
 |  |
