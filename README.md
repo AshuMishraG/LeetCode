@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AshuMishraG/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AshuMishraG/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/AshuMishraG/LeetCode/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/AshuMishraG/LeetCode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AshuMishraG/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/AshuMishraG/LeetCode/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/AshuMishraG/LeetCode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AshuMishraG/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/AshuMishraG/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
