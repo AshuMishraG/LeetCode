@@ -1,15 +1,13 @@
 class Solution:
-    def countGoodNumbers(self, n: int) -> int:
-        MOD = 1_000_000_007
+    def countGoodNumbers(self, n: int) -> int:    
 
-        num_even_indices = (n + 1) // 2 
+        MOD = 10 ** 9 + 7
         
-        num_odd_indices = n // 2
+        def expo(x: int, num: int) -> int:
+            if num == 0:
+                return 1  
+            elif num % 2 == 0:
+                return expo(x ** 2 % MOD, num // 2)
+            return x * expo(x, num - 1) % MOD
 
-        even_pos_count = pow(5, num_even_indices, MOD)
-
-        odd_pos_count = pow(4, num_odd_indices, MOD)
-
-        total_count = (even_pos_count * odd_pos_count) % MOD
-
-        return total_count
+        return 5 ** (n % 2) * expo(20, n // 2) % MOD
