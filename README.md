@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AshuMishraG/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/AshuMishraG/LeetCode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AshuMishraG/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
