@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AshuMishraG/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AshuMishraG/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AshuMishraG/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/AshuMishraG/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AshuMishraG/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AshuMishraG/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AshuMishraG/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AshuMishraG/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AshuMishraG/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AshuMishraG/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1775-design-an-ordered-stream](https://github.com/AshuMishraG/LeetCode/tree/master/1775-design-an-ordered-stream) |
+| [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Data Stream
 |  |
 | ------- |
