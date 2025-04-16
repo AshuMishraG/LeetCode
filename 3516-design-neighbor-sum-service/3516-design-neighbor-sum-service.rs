@@ -16,12 +16,12 @@ impl NeighborSum {
         }
         Self { grid, pos, n }
     }
-
+    
     pub fn adjacent_sum(&self, value: i32) -> i32 {
-        let directions = [(-1, 0), (1, 0), (0, -1), (0, 1)];
+        const DIRS: [(isize, isize); 4] = [(-1, 0), (1, 0), (0, -1), (0, 1)];
         let (r, c) = self.pos[value as usize];
         let mut sum = 0;
-        for (dr, dc) in directions.iter() {
+        for &(dr, dc) in &DIRS {
             let nr = r as isize + dr;
             let nc = c as isize + dc;
             if nr >= 0 && nr < self.n as isize && nc >= 0 && nc < self.n as isize {
@@ -30,12 +30,12 @@ impl NeighborSum {
         }
         sum
     }
-
+    
     pub fn diagonal_sum(&self, value: i32) -> i32 {
-        let directions = [(-1, -1), (-1, 1), (1, -1), (1, 1)];
+        const DIRS: [(isize, isize); 4] = [(-1, -1), (-1, 1), (1, -1), (1, 1)];
         let (r, c) = self.pos[value as usize];
         let mut sum = 0;
-        for (dr, dc) in directions.iter() {
+        for &(dr, dc) in &DIRS {
             let nr = r as isize + dr;
             let nc = c as isize + dc;
             if nr >= 0 && nr < self.n as isize && nc >= 0 && nc < self.n as isize {
