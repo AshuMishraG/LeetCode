@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AshuMishraG/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1635-number-of-good-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshuMishraG/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
