@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/AshuMishraG/LeetCode/tree/master/0038-count-and-say) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshuMishraG/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/AshuMishraG/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/AshuMishraG/LeetCode/tree/master/0782-jewels-and-stones) |
