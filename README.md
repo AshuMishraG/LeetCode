@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/AshuMishraG/LeetCode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshuMishraG/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshuMishraG/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/AshuMishraG/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshuMishraG/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
