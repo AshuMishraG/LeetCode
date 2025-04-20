@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshuMishraG/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/AshuMishraG/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/AshuMishraG/LeetCode/tree/master/1137-height-checker) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/AshuMishraG/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/AshuMishraG/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshuMishraG/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -182,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AshuMishraG/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1635-number-of-good-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
