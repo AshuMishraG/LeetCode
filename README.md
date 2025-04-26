@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AshuMishraG/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/AshuMishraG/LeetCode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AshuMishraG/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1764-maximum-repeating-substring](https://github.com/AshuMishraG/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AshuMishraG/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/AshuMishraG/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/AshuMishraG/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/AshuMishraG/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
