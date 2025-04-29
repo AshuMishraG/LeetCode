@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/AshuMishraG/LeetCode/tree/master/1448-maximum-69-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AshuMishraG/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/AshuMishraG/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshuMishraG/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AshuMishraG/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/AshuMishraG/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/AshuMishraG/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
