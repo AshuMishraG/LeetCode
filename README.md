@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AshuMishraG/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/AshuMishraG/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/AshuMishraG/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0868-push-dominoes](https://github.com/AshuMishraG/LeetCode/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/AshuMishraG/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AshuMishraG/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AshuMishraG/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/AshuMishraG/LeetCode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/AshuMishraG/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AshuMishraG/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AshuMishraG/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/AshuMishraG/LeetCode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1236-n-th-tribonacci-number) |
