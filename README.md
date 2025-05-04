@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/AshuMishraG/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshuMishraG/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/2050-count-good-numbers) |
+| [2238-a-number-after-a-double-reversal](https://github.com/AshuMishraG/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/AshuMishraG/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
