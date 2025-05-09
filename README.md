@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/AshuMishraG/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AshuMishraG/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/AshuMishraG/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/AshuMishraG/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2249-count-the-hidden-sequences](https://github.com/AshuMishraG/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AshuMishraG/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2571-find-the-pivot-integer](https://github.com/AshuMishraG/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2915-count-of-interesting-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Enumeration
 |  |
