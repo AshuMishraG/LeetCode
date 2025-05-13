@@ -2,17 +2,24 @@ impl Solution {
     pub fn count_symmetric_integers(low: i32, high: i32) -> i32 {
         let mut count = 0;
         for x in low..=high {
-            let s = x.to_string();
-            let len = s.len();
-            if len % 2 != 0 {
+            if x < 10 {
                 continue;
-            }
-            let half = len / 2;
-            let (left, right) = s.split_at(half);
-            let sum_left: i32 = left.chars().map(|c| c.to_digit(10).unwrap() as i32).sum();
-            let sum_right: i32 = right.chars().map(|c| c.to_digit(10).unwrap() as i32).sum();
-            if sum_left == sum_right {
-                count += 1;
+            } else if x < 100 {
+                let a = x / 10;
+                let b = x % 10;
+                if a == b {
+                    count += 1;
+                }
+            } else if x < 1000 {
+                continue;
+            } else {
+                let a = x / 1000;
+                let b = (x / 100) % 10;
+                let c = (x / 10) % 10;
+                let d = x % 10;
+                if a + b == c + d {
+                    count += 1;
+                }
             }
         }
         count
