@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/AshuMishraG/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/AshuMishraG/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
