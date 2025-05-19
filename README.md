@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AshuMishraG/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/3321-type-of-triangle) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AshuMishraG/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshuMishraG/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AshuMishraG/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AshuMishraG/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshuMishraG/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AshuMishraG/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
