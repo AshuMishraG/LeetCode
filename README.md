@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/AshuMishraG/LeetCode/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
