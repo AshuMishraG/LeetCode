@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AshuMishraG/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AshuMishraG/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AshuMishraG/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/AshuMishraG/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AshuMishraG/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AshuMishraG/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
