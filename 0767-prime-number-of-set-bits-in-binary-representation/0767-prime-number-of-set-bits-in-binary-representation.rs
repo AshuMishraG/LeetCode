@@ -1,11 +1,11 @@
+use std::collections::HashSet;
+
 impl Solution {
     pub fn count_prime_set_bits(left: i32, right: i32) -> i32 {
-        fn is_prime(n: u32) -> bool {
-            matches!(n, 2 | 3 | 5 | 7 | 11 | 13 | 17 | 19)
-        }
+        let primes: HashSet<i32> = [2, 3, 5, 7, 11, 13, 17, 19].iter().cloned().collect();
 
         (left..=right)
-            .filter(|&n| is_prime(n.count_ones()))
+            .filter(|&x| primes.contains(&(x.count_ones() as i32)))
             .count() as i32
     }
 }
