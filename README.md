@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AshuMishraG/LeetCode/tree/master/0338-counting-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshuMishraG/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AshuMishraG/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/AshuMishraG/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshuMishraG/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
