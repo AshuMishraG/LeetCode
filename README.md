@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/AshuMishraG/LeetCode/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AshuMishraG/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AshuMishraG/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuMishraG/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AshuMishraG/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshuMishraG/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AshuMishraG/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/AshuMishraG/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AshuMishraG/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshuMishraG/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Number Theory
 |  |
 | ------- |
@@ -536,9 +540,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
