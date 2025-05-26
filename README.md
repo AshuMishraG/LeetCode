@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/AshuMishraG/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/AshuMishraG/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AshuMishraG/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AshuMishraG/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AshuMishraG/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshuMishraG/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/AshuMishraG/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/AshuMishraG/LeetCode/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AshuMishraG/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AshuMishraG/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/AshuMishraG/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/AshuMishraG/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/AshuMishraG/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1236-n-th-tribonacci-number](https://github.com/AshuMishraG/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AshuMishraG/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AshuMishraG/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AshuMishraG/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AshuMishraG/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AshuMishraG/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
