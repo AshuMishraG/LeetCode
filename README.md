@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/AshuMishraG/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/AshuMishraG/LeetCode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/AshuMishraG/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshuMishraG/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1094-matrix-cells-in-distance-order](https://github.com/AshuMishraG/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/AshuMishraG/LeetCode/tree/master/1137-height-checker) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/AshuMishraG/LeetCode/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/AshuMishraG/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/AshuMishraG/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AshuMishraG/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AshuMishraG/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AshuMishraG/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/AshuMishraG/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/AshuMishraG/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/AshuMishraG/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/AshuMishraG/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuMishraG/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
