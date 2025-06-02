@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuMishraG/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AshuMishraG/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/AshuMishraG/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AshuMishraG/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AshuMishraG/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AshuMishraG/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuMishraG/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/AshuMishraG/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AshuMishraG/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AshuMishraG/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AshuMishraG/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AshuMishraG/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/AshuMishraG/LeetCode/tree/master/1448-maximum-69-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/AshuMishraG/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AshuMishraG/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshuMishraG/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AshuMishraG/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
