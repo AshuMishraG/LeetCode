@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshuMishraG/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/AshuMishraG/LeetCode/tree/master/0135-candy) |
 | [0349-intersection-of-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshuMishraG/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AshuMishraG/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshuMishraG/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
