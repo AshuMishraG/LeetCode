@@ -1,0 +1,26 @@
+class Solution:
+    def candy(self, ratings: List[int]) -> int:
+        n = len(ratings)
+        if n == 0:
+            return 0
+        
+        # Step 1: Initialize candies array
+        candies = [1] * n
+        
+        # Step 2: Left-to-right pass
+        for i in range(1, n):
+            if ratings[i] > ratings[i-1]:
+                candies[i] = candies[i-1] + 1
+        
+        # Step 3: Right-to-left pass
+        # Note: The problem asks for total candies. We can sum up during the second pass 
+        # to optimize space slightly if we don't want to keep the final candies array.
+        # However, standard interpretation implies the candies array itself is O(N) space.
+        # The sum is calculated after this pass.
+        for i in range(n - 2, -1, -1): # Iterate from n-2 down to 0
+            if ratings[i] > ratings[i+1]:
+                candies[i] = max(candies[i], candies[i+1] + 1)
+                
+        # Step 4: Summation
+        total_candies = sum(candies)
+        return total_candies
