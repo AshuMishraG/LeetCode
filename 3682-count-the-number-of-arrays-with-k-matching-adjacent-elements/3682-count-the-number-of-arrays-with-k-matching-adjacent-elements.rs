@@ -1,54 +1,44 @@
-use std::collections::HashMap;
+const MOD: i64 = 1_000_000_007;
+const MX: usize = 100000;
+
+static mut FACT: [i64; MX] = [0; MX];
+static mut INV_FACT: [i64; MX] = [0; MX];
+
+fn qpow(mut x: i64, mut n: i32) -> i64 {
+    let mut res = 1;
+    while n > 0 {
+        if n & 1 == 1 {
+            res = res * x % MOD;
+        }
+        x = x * x % MOD;
+        n >>= 1;
+    }
+    res
+}
+
+fn init() {
+    unsafe {
+        if FACT[0] != 0 { return; }
+        FACT[0] = 1;
+        for i in 1..MX {
+            FACT[i] = FACT[i - 1] * (i as i64) % MOD;
+        }
+        INV_FACT[MX - 1] = qpow(FACT[MX - 1], MOD as i32 - 2);
+        for i in (1..MX).rev() {
+            INV_FACT[i - 1] = INV_FACT[i] * (i as i64) % MOD;
+        }
+    }
+}
+
+fn comb(n: usize, m: usize) -> i64 {
+    unsafe {
+        FACT[n] * INV_FACT[m] % MOD * INV_FACT[n - m] % MOD
+    }
+}
 
 impl Solution {
-    const MOD: i64 = 1_000_000_007;
-    const MAXN: usize = 100_000;
-
-    fn mod_exp(mut base: i64, mut exp: i64, mod_: i64) -> i64 {
-        let mut result = 1;
-        while exp > 0 {
-            if exp & 1 == 1 {
-                result = (result * base) % mod_;
-            }
-            base = (base * base) % mod_;
-            exp >>= 1;
-        }
-        result
-    }
-
-    fn ncr(n: usize, r: usize, fact: &Vec<i64>, inv_fact: &Vec<i64>) -> i64 {
-        if r > n {
-            return 0;
-        }
-        (fact[n] * inv_fact[r] % Solution::MOD * inv_fact[n - r] % Solution::MOD) % Solution::MOD
-    }
-
     pub fn count_good_arrays(n: i32, m: i32, k: i32) -> i32 {
-        if n == 1 {
-            return if k == 0 { m as i32 } else { 0 };
-        }
-
-        let n = n as usize;
-        let k = k as usize;
-        let m = m as i64;
-
-        let mut fact = vec![1; Solution::MAXN + 1];
-        let mut inv_fact = vec![1; Solution::MAXN + 1];
-
-        for i in 1..=Solution::MAXN {
-            fact[i] = (fact[i - 1] * i as i64) % Solution::MOD;
-        }
-
-        inv_fact[Solution::MAXN] = Solution::mod_exp(fact[Solution::MAXN], Solution::MOD - 2, Solution::MOD);
-
-        for i in (0..Solution::MAXN).rev() {
-            inv_fact[i] = (inv_fact[i + 1] * (i + 1) as i64) % Solution::MOD;
-        }
-
-        let choose = Solution::ncr(n - 1, k, &fact, &inv_fact);
-        let ways = (choose * m) % Solution::MOD;
-        let ways = (ways * Solution::mod_exp(m - 1, (n - k - 1) as i64, Solution::MOD)) % Solution::MOD;
-
-        ways as i32
+        init();
+        (comb((n - 1)as usize, k as usize) * m as i64 % MOD * qpow((m - 1) as i64, (n - k - 1) as i32) % MOD) as i32
     }
 }
