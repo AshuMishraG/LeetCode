@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/AshuMishraG/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AshuMishraG/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AshuMishraG/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AshuMishraG/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/AshuMishraG/LeetCode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshuMishraG/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AshuMishraG/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/AshuMishraG/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
