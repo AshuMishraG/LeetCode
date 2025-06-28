@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AshuMishraG/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AshuMishraG/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshuMishraG/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/AshuMishraG/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AshuMishraG/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AshuMishraG/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AshuMishraG/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/AshuMishraG/LeetCode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshuMishraG/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AshuMishraG/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/AshuMishraG/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AshuMishraG/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AshuMishraG/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AshuMishraG/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AshuMishraG/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/AshuMishraG/LeetCode/tree/master/2502-sort-the-people) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AshuMishraG/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AshuMishraG/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AshuMishraG/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AshuMishraG/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AshuMishraG/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AshuMishraG/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AshuMishraG/LeetCode/tree/master/3647-zero-array-transformation-iii) |
