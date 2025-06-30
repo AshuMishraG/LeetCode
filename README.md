@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AshuMishraG/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/AshuMishraG/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshuMishraG/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/AshuMishraG/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AshuMishraG/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AshuMishraG/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AshuMishraG/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/AshuMishraG/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/AshuMishraG/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AshuMishraG/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/AshuMishraG/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/AshuMishraG/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AshuMishraG/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AshuMishraG/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AshuMishraG/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/AshuMishraG/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AshuMishraG/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AshuMishraG/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AshuMishraG/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AshuMishraG/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AshuMishraG/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AshuMishraG/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
