@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AshuMishraG/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/3321-type-of-triangle) |
+| [3371-harshad-number](https://github.com/AshuMishraG/LeetCode/tree/master/3371-harshad-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshuMishraG/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AshuMishraG/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
