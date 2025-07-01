@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AshuMishraG/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/3321-type-of-triangle) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AshuMishraG/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshuMishraG/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/AshuMishraG/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshuMishraG/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AshuMishraG/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/AshuMishraG/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/AshuMishraG/LeetCode/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshuMishraG/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshuMishraG/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshuMishraG/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AshuMishraG/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
