@@ -26,6 +26,8 @@ public:
         if(mp.find(b)!=mp.end()){ //we have found it
            result.push_back(i);
            result.push_back(mp[b]) ;
+            return result;
+
         }
         mp[nums[i]]=i;   //changes
 
@@ -37,12 +39,7 @@ public:
       //nums[j]=b
       // a +b =target
       //b= target - a
+    return result;
 
-
-      //store
-
-      //return
-
-      return result;
     }
 };
